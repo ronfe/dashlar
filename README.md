@@ -3,8 +3,7 @@
 
 ## 这是什么？
  * 这是一种拟音方案，不是拼音方案。
- * 它的目标是让拉丁文字语言为母语的人（或者熟悉拉丁字母语言音系的人）快速掌握汉语普通话的读音。
- * 它不能保证标音的绝对准确，但是努力做到与常见拉丁音系相容的基础上，。
+ * 它不能保证标音的绝对准确，但是努力做到与常见拉丁音系相容的基础上，更相似地表达汉语语音。
 
 ## 怎么做？
   * 具体规则还需总结，但可以举例：
@@ -18,7 +17,7 @@
     - 徐州南 / Xuzhou Nan / Shyudjow Nan
     - 烤馕 / Kaonang / Kaunun
     - 宋家庄 / Songjiazhuang / Sonzhiajuang
-    - 中秋节 / Zhongqiu Jie / Djonchiow Zheh
+    - 中秋节 / Zhongqiu Jie / Djonchiow Jeh
     - 党总支 / Dangzongzhi / Dangdzonge
     - 定安路 / Ding'an Lu / Dinnan Loo
     - 技术 / Jishu / Geeshu

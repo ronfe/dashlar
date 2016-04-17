@@ -18,7 +18,7 @@
     - 徐州南 / Xuzhou Nan / Shyudjow Nan
     - 烤馕 / Kaonang / Kaunun
     - 宋家庄 / Songjiazhuang / Sonzhiajuang
-    - 中秋节 / Zhongqiu Jie / Djonchiou Djeh
+    - 中秋节 / Zhongqiu Jie / Djonchiou Zheh
     - 党总支 / Dangzongzhi / Dangdzonge
     - 定安路 / Ding'an Lu / Dinnan Loo
     - 技术 / Jishu / Geeshu

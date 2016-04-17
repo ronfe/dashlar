@@ -13,7 +13,7 @@
     - 肖村桥西 / Xiaocunqiao Xi / ShiaotsoonChiaw Shee
     - 五二四路 / Wuersi Lu / Wooars Loo
     - 三十四路 / Sanshisi Lu / Sanshirs Loo
-    - 北京西站 / Beijingxi Zhan / Beizhingshee Djan
+    - 北京西站 / Beijingxi Zhan / Beizhinnshee Djan
     - 徐州南 / Xuzhou Nan / Shyudjow Nan
     - 烤馕 / Kaonang / Kaunun
     - 宋家庄 / Songjiazhuang / Sonzhiajuang
@@ -24,6 +24,6 @@
     - 居住 / Juzhu / Zhyudjoo
     - 可乐 / Kele / Kele
     - 快递 / Kuaidi / Quaidee
-    - 南京市长江大桥 / Nanjingshi Changjiang Daqiao / Nanzhingsh Changzhiang Dachiaw
+    - 南京市长江大桥 / Nanjingshi Changjiang Daqiao / Nanzhinnsh Chungzhiang Dachiaw
     - 你好谢谢对不起 / Nihao Xiexie Duibuqi / Neehaw ShehSheh Duibchee
   * 在Samples目录里还有朱自清《春》的标音（目前只写了两句）

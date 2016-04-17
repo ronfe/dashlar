@@ -6,7 +6,7 @@
  * 它不能保证标音的绝对准确，但是努力做到与常见拉丁音系相容的基础上，更相似地表达汉语语音。
 
 ## 怎么做？
-  * 具体规则还需总结，但可以举例：
+  * 具体规则还需总结，且同一个音节还有不同种的尝试。目前可以举例：
   * 汉字 / 拼音 / Dashlar拟音
     - 大栅栏 / Dashilaner / Dashlar
     - 庆丰包子铺 / Qingfeng Baozi Pu / Cheenfeng Baodz Poo
@@ -26,3 +26,5 @@
     - 快递 / Kuaidi / Quaidi
     - 南京市长江大桥 / Nanjingshi Changjiang Daqiao / Nanzhingsh Changzhiang Dachiaw
     - 你好谢谢对不起 / Nihao Xiexie Duibuqi / Neehaw ShehSheh Duibchee
+
+ * 在Samples目录里还有朱自清《春》的标音（目前只写了两句）

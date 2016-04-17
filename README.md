@@ -18,13 +18,12 @@
     - 徐州南 / Xuzhou Nan / Shyudjow Nan
     - 烤馕 / Kaonang / Kaunun
     - 宋家庄 / Songjiazhuang / Sonzhiajuang
-    - 中秋节 / Zhongqiu Jie / Djonchiou Zheh
+    - 中秋节 / Zhongqiu Jie / Djonchiow Zheh
     - 党总支 / Dangzongzhi / Dangdzonge
     - 定安路 / Ding'an Lu / Dinnan Loo
     - 技术 / Jishu / Geeshu
     - 居住 / Juzhu / Zhyudjoo
     - 可乐 / Kele / Kele
     - 快递 / Kuaidi / Quaidi
-
     - 南京市长江大桥 / Nanjingshi Changjiang Daqiao / Nanzhingsh Changzhiang Dachiaw
     - 你好谢谢对不起 / Nihao Xiexie Duibuqi / Neehaw ShehSheh Duibchee

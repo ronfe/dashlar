@@ -1,2 +1,30 @@
-# dashlar
+# Dashlar
 更加直观的汉语拟音方案 / A more intuitive Chinese phonetic interpretation
+
+## 这是什么？
+ * 这是一种拟音方案，不是拼音方案。
+ * 它的目标是让拉丁文字语言为母语的人（或者熟悉拉丁字母语言音系的人）快速掌握汉语普通话的读音。
+ * 它不能保证标音的绝对准确，但是努力做到与常见拉丁音系相容的基础上，。
+
+## 怎么做？
+  * 具体规则还需总结，但可以举例：
+  * 汉字 / 拼音 / Daahlar拟音
+    - 大栅栏 / Dashilaner / Dashlar
+    - 庆丰包子铺 / Qingfeng Baozi Pu / Cheenfeng Baodz Poo
+    - 肖村桥西 / Xiaocunqiao Xi / ShiaotsoonChiaw Shee
+    - 五二四路 / Wuersi Lu / Wooars Loo
+    - 三十四路 / Sanshisi Lu / Sanshirs Loo
+    - 北京西站 / Beijingxi Zhan / Beizhingshee Djan
+    - 徐州南 / Xuzhou Nan / Shyudjow Nan
+    - 烤馕 / Kaonang / Kaunun
+    - 宋家庄 / Songjiazhuang / Sonzhiajuang
+    - 中秋节 / Zhongqiu Jie / Djonchiou Djeh
+    - 党总支 / Dangzongzhi / Dangdzonge
+    - 定安路 / Ding'an Lu / Dinnan Loo
+    - 技术 / Jishu / Geeshu
+    - 居住 / Juzhu / Zhyudjoo
+    - 可乐 / Kele / Kele
+    - 快递 / Kuaidi / Quaidi
+
+    - 南京市长江大桥 / Nanjingshi Changjiang Daqiao / Nanzhingsh Changzhiang Dachiaw
+    - 你好谢谢对不起 / Nihao Xiexie Duibuqi / Neehaw ShehSheh Duibchee

@@ -7,7 +7,7 @@
 
 ## 怎么做？
   * 具体规则还需总结，但可以举例：
-  * 汉字 / 拼音 / Daahlar拟音
+  * 汉字 / 拼音 / Dashlar拟音
     - 大栅栏 / Dashilaner / Dashlar
     - 庆丰包子铺 / Qingfeng Baozi Pu / Cheenfeng Baodz Poo
     - 肖村桥西 / Xiaocunqiao Xi / ShiaotsoonChiaw Shee

@@ -18,7 +18,7 @@
     - 烤馕 / Kaonang / Kaunun
     - 宋家庄 / Songjiazhuang / Sonzhiajuang
     - 中秋节 / Zhongqiu Jie / Djonchiow Jeh
-    - 党总支 / Dangzongzhi / Dangdzonge
+    - 党总支 / Dangzongzhi / Dundzonge
     - 定安路 / Ding'an Lu / Dinnan Loo
     - 技术 / Jishu / Geeshoo
     - 居住 / Juzhu / Zhyudjoo

@@ -20,7 +20,7 @@
     - 中秋节 / Zhongqiu Jie / Djonchiow Jeh
     - 党总支 / Dangzongzhi / Dangdzonge
     - 定安路 / Ding'an Lu / Dinnan Loo
-    - 技术 / Jishu / Geeshu
+    - 技术 / Jishu / Geeshoo
     - 居住 / Juzhu / Zhyudjoo
     - 可乐 / Kele / Kele
     - 快递 / Kuaidi / Quaidi

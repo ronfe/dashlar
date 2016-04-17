@@ -23,7 +23,7 @@
     - 技术 / Jishu / Geeshoo
     - 居住 / Juzhu / Zhyudjoo
     - 可乐 / Kele / Kele
-    - 快递 / Kuaidi / Quaidi
+    - 快递 / Kuaidi / Quaidee
     - 南京市长江大桥 / Nanjingshi Changjiang Daqiao / Nanzhingsh Changzhiang Dachiaw
     - 你好谢谢对不起 / Nihao Xiexie Duibuqi / Neehaw ShehSheh Duibchee
   * 在Samples目录里还有朱自清《春》的标音（目前只写了两句）
